@@ -1,0 +1,60 @@
+# Pastas de dados (muito grandes)
+Organizador_Arquivos/
+Organizador_Revit_Organizado/
+ultima_versao/
+_Backup_Original_*/
+output/
+output_*/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+
+# Relatórios e logs
+*.csv
+*.xlsx
+*.log
+report_*.txt
+
+# Arquivos temporários
+*.bak
+*.backup
+temp/
+tmp/
